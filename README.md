@@ -12,5 +12,4 @@ C++, 언리얼엔진을 공부중인 게임 클라이언트 개발자 지망생�
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183146)](https://solved.ac/20183146)
 
-<a href="https://r-p-p.tistory.com/" > <h3>티스토리 블로그 </a>
 </div>
