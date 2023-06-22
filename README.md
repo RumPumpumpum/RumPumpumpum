@@ -9,7 +9,7 @@ C++, 언리얼엔진을 공부중인 게임 클라이언트 개발자 지망생�
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=UnrealEngine&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
  
-<h1>:pencil2: solved.ac </h1> </a>
+<h1>:pencil2: 알고리즘 </h1> </a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183146)](https://solved.ac/20183146)
 
