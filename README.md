@@ -13,4 +13,8 @@ C++, 언리얼엔진을 공부중인 게임 클라이언트 개발자 지망생�
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183146)](https://solved.ac/20183146)
 
+<h1>🚙 링크 </h1> </a>
+[티스토리] https://r-p-p.tistory.com/ <br>
+[Solved] https://solved.ac/ <br>
+[백준] https://www.acmicpc.net/user/20183146 <br>
 </div>
