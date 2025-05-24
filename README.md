@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Welcome!&fontSize=90&fontColor=ffffff&fontAlignY=40)
 <h1>:baby_chick: 소개 </h1> </a>
 안녕하세요!<br> 
-C++, 언리얼엔진을 공부하는 게임QA 입니다!
+웹 개발을 공부하고 있습니다.
 
 <h1>:hammer: 기술스택 </h1> </a>
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=UnrealEngine&logoColor=white"/>
