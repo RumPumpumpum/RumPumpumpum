@@ -34,7 +34,7 @@
   언리얼5를 이용해서 개발한 3D RPG 게임<br>
   <strong>주요 기능:</strong> 패링을 이용한 전투 시스템, 퀘스트 시스템<br>
   <strong>사용 기술:</strong> <code>C++</code>, <code>Unreal Engine</code><br>
-  <strong>Link:</strong> <a href="https://github.com/RumPumpumpum/RPG" target="_blank">깃허브</a> | <a href="https://r-p-p.tistory.com/category/%5B%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C%5D%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EC%A7%80/RPG" target="_blank">개발 일지</a>| <a href="https://www.youtube.com/watch?v=S4Nl4JpSmxI" target="_blank">시연 영상</a>
+  <strong>Link:</strong> <a href="https://github.com/RumPumpumpum/RPG" target="_blank">깃허브</a> | <a href="https://r-p-p.tistory.com/category/%5B%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C%5D%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EC%A7%80/RPG" target="_blank">개발 일지</a> | <a href="https://www.youtube.com/watch?v=S4Nl4JpSmxI" target="_blank">시연 영상</a>
 </p>
 <br>
 <p>
