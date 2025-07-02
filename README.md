@@ -50,6 +50,6 @@
 ### 📬 링크 📬
 
 <a href="https://r-p-p.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://r-p-p.tistory.com/"></a>
-<a href="mailto:[이메일 주소]"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="mailto:[rumpumpum0421@gmail.com]"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 </div>
